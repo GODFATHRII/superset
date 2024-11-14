@@ -25,7 +25,9 @@ all you have to do is file a simple PR [like this one](https://github.com/apache
 the categorization is inaccurate, please file a PR with your correction as well.
 Join our growing community!
 
-
+### Real Estate Services
+- [Rexera]([https://www.rexera.com/](url) [@GODFATHRII]
+  
 ### Sharing Economy
 - [Airbnb](https://github.com/airbnb)
 - [Faasos](https://faasos.com/) [@shashanksingh]
